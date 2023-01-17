@@ -28,14 +28,7 @@ II - Internal Design
 
 
 
-III - Shortcomings
-	
-	* Initial client/proxy connection. Not quite sure why 'wget' is not allowing 
-		for a proper connection with methods I have successfully implemented before.
-
-
-
-IV - Testing
+III - Testing
 
 
 	bin/myproxy 40123 proxy_sites outfile
